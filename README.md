@@ -1,5 +1,5 @@
 01 Nom: Guillot
-01 github:
+01 github: pguillot07
 02 Nom: Aurousseau
 02 github:
 03 Nom: Giboureau

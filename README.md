@@ -3,6 +3,6 @@
 02 Nom: Aurousseau
 02 github:
 03 Nom: Giboureau
-03 github:
+03 github: ngiboureau
 04 Nom: Toulemonde
 04 github:
